@@ -13,6 +13,7 @@
             <input name="numero" type="number" /><input value="Calcular" type="submit" />
             <p>All Rights Reserved - Universidad EAFIT</p>
             <p>Todos los derechos reservados - Universidad EAFIT</p>
+            <p>Germán Darío Peña Arturo <a href = "mailto: gdpenaa@eafit.edu.co">gdpenaa@eafit.edu.co</a></p>
         </form>
     </body>
 </html>
